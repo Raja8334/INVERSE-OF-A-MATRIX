@@ -26,5 +26,5 @@ print(result)
 ## Output:
 !['output'](/Screenshot%20from%202023-01-21%2022-31-31.png)
 ## Result:
-Thus the inverse of given matrix is successfully solved using python program
+Thus the inverse of given matrix is successfully solved using python program.
 
